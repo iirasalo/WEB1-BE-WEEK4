@@ -17,7 +17,7 @@ npm run dev
 
 ## Task 2
 
-- What is the URL of the database?
-- What is the the password for the database?
-- Why are we using `.env` file?
-- How do access environment variables?
+- What is the URL of the database?            --> mongodb.net/tietokanta
+- What is the the password for the database?  --> SqZsopHbsRtRDO24
+- Why are we using `.env` file?               --> Can put variables and passports into same place.
+- How do access environment variables?        --> process.env.******
